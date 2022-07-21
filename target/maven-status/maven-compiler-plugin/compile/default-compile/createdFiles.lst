@@ -1,0 +1,6 @@
+uk\co\paidsoftware\util\argument\ArgumentHandler.class
+uk\co\paidsoftware\util\argument\FileProgramArgument.class
+uk\co\paidsoftware\util\argument\BasicProgramArgument.class
+uk\co\paidsoftware\util\argument\parser\ArgumentPaserCreateArgumentEvent.class
+uk\co\paidsoftware\util\argument\parser\ArgumentParser.class
+uk\co\paidsoftware\util\argument\ProgramArgument.class
